@@ -14,7 +14,6 @@ by Xiang Wentao, Ma Bowen and Zhu Yuedong.
 | `data/cross_language_bigrams.csv` | Token pairs across each language switch point (EN→ZH, ZH→EN) |
 | `data/concordance_kwic.csv` | Keyword-in-context lines for frequent keywords (±35 characters) |
 | `data/pilot_double_annotation_18.csv` | Independent double annotation of an 18-review pilot sample (17/18 agreement) |
-| `data/audit_log_26.csv` | Source and label audit of 26 reviews |
 | `analysis/analysis.py` | Preprocessing (OpenCC s2t, Han/Latin boundary splitting, jieba with a Cantonese dictionary), frequency, bigram and KWIC analysis |
 | `docs/annotation_rules.md` | Annotation rules and recorded boundary decisions |
 
