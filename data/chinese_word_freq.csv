@@ -18,6 +18,7 @@ Chinese Content Word,Frequency,Attribute Focus
 失望,2,General Evaluation
 最好,2,General Evaluation
 麵包,2,Food Item
+超級,2,General Evaluation
 牛油果,2,Ingredient
 值得,2,General Evaluation
 兩次,2,General Evaluation
@@ -79,7 +80,6 @@ Chinese Content Word,Frequency,Attribute Focus
 配料,1,General Evaluation
 焙茶,1,General Evaluation
 鮮奶,1,General Evaluation
-超級,1,General Evaluation
 有半個,1,General Evaluation
 上面,1,General Evaluation
 夠曬,1,General Evaluation
@@ -107,6 +107,8 @@ Chinese Content Word,Frequency,Attribute Focus
 難食,1,General Evaluation
 忌廉,1,General Evaluation
 員工,1,General Evaluation
+好似,1,General Evaluation
+緊奶,1,General Evaluation
 食過,1,General Evaluation
 豬柳蛋,1,General Evaluation
 明太子,1,General Evaluation

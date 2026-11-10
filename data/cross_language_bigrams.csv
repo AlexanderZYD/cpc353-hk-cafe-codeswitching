@@ -1,92 +1,87 @@
-Token 1,Token 2,Transition Direction,Frequency,Syntactic Description
-keep,住,EN→ZH,2,English verb + Cantonese continuous aspect marker (住)
-的,cafe,ZH→EN,2,Chinese genitive particle (的) + English noun
-bagel,都,EN→ZH,2,Topicalized English subject + Cantonese inclusive adverb (都)
-第一,cafe,ZH→EN,1,Ordinal adjective + English loan noun
-muffin,好好味,EN→ZH,1,English subject + Cantonese stative predicate
-menu,寫,EN→ZH,1,English subject + Cantonese verb (寫)
-杯,creamy,ZH→EN,1,Cantonese classifier (杯) + English adjective
-black,淡到水咁,EN→ZH,1,Syntactic boundary alternation
-淡到水咁,cafe,ZH→EN,1,Cantonese simile predicate + English vocative/subject
-cafe,唔識沖,EN→ZH,1,Syntactic boundary alternation
-既,flat,ZH→EN,1,Syntactic boundary alternation
-white,就,EN→ZH,1,Syntactic boundary alternation
-好,very,ZH→EN,1,Syntactic boundary alternation
-同,menu,ZH→EN,1,Cantonese relator (同) + English noun
-picture,嚴重,EN→ZH,1,English noun + Chinese predicate adjective
-退曬步,overextract,ZH→EN,1,Syntactic boundary alternation
-overextract,曬,EN→ZH,1,English technical verb + Cantonese exhaustive particle (曬)
-啲,cream,ZH→EN,1,Syntactic boundary alternation
-cheese,真,EN→ZH,1,Syntactic boundary alternation
-左,extra,ZH→EN,1,Syntactic boundary alternation
-shot,好難飲,EN→ZH,1,Syntactic boundary alternation
-會,keep,ZH→EN,1,Syntactic boundary alternation
-好食,bookmarked,ZH→EN,1,Syntactic boundary alternation
-有,single,ZH→EN,1,Syntactic boundary alternation
-origin,選擇,EN→ZH,1,Syntactic boundary alternation
-bagel,好煙韌,EN→ZH,1,Syntactic boundary alternation
-同,bagel,ZH→EN,1,Syntactic boundary alternation
-pasta,一滴,EN→ZH,1,Syntactic boundary alternation
-嘅,cafe,ZH→EN,1,Syntactic boundary alternation
-cafe,求嚇,EN→ZH,1,Syntactic boundary alternation
-做,gym,ZH→EN,1,Syntactic boundary alternation
-gym,最好,EN→ZH,1,Syntactic boundary alternation
-麵包,bagel,ZH→EN,1,Syntactic boundary alternation
-好飲,sourdough,ZH→EN,1,Syntactic boundary alternation
-sourdough,都,EN→ZH,1,Syntactic boundary alternation
-smoothie,好味,EN→ZH,1,Syntactic boundary alternation
-高,bagel,ZH→EN,1,Syntactic boundary alternation
-bagel,同,EN→ZH,1,Syntactic boundary alternation
-卷蛋,must,ZH→EN,1,Syntactic boundary alternation
-夠,worth,ZH→EN,1,Syntactic boundary alternation
-非常,tiny,ZH→EN,1,Syntactic boundary alternation
-tiny,的,EN→ZH,1,Syntactic boundary alternation
-bagel,似,EN→ZH,1,Syntactic boundary alternation
-差劣,begal,ZH→EN,1,Syntactic boundary alternation
-begal,是,EN→ZH,1,Syntactic boundary alternation
-兩次,order,ZH→EN,1,Syntactic boundary alternation
-order,加,EN→ZH,1,Syntactic boundary alternation
-好,sweet,ZH→EN,1,Syntactic boundary alternation
-toast,同,EN→ZH,1,Syntactic boundary alternation
-同,salad,ZH→EN,1,Syntactic boundary alternation
-salad,都,EN→ZH,1,Syntactic boundary alternation
-好,fresh,ZH→EN,1,Syntactic boundary alternation
-cafe,星期六,EN→ZH,1,Syntactic boundary alternation
-做,brunch,ZH→EN,1,Syntactic boundary alternation
-brunch,食完,EN→ZH,1,Syntactic boundary alternation
-喫,dirty,ZH→EN,1,Syntactic boundary alternation
-dirty,咖啡,EN→ZH,1,Syntactic boundary alternation
-可以,keep,ZH→EN,1,Syntactic boundary alternation
-的,tiramisu,ZH→EN,1,Syntactic boundary alternation
-tiramisu,十分,EN→ZH,1,Syntactic boundary alternation
-十分,creamy,ZH→EN,1,Syntactic boundary alternation
-creamy,蛋糕,EN→ZH,1,Syntactic boundary alternation
-聽,comment,ZH→EN,1,Syntactic boundary alternation
-comment,加油,EN→ZH,1,Syntactic boundary alternation
-toast,無,EN→ZH,1,Syntactic boundary alternation
-跟,cream,ZH→EN,1,Syntactic boundary alternation
-cream,和,EN→ZH,1,Syntactic boundary alternation
-原味,scone,ZH→EN,1,Syntactic boundary alternation
-scone,卻給,EN→ZH,1,Syntactic boundary alternation
-茶味,scone,ZH→EN,1,Syntactic boundary alternation
-scone,我,EN→ZH,1,Syntactic boundary alternation
-食,scone,ZH→EN,1,Syntactic boundary alternation
-scone,原來,EN→ZH,1,Syntactic boundary alternation
-但,salad,ZH→EN,1,Syntactic boundary alternation
-salad,細份,EN→ZH,1,Syntactic boundary alternation
-breakfast,好,EN→ZH,1,Syntactic boundary alternation
-muffin,太甜,EN→ZH,1,Syntactic boundary alternation
-太甜,drip,ZH→EN,1,Syntactic boundary alternation
-bag,不錯,EN→ZH,1,Syntactic boundary alternation
-我,order,ZH→EN,1,Syntactic boundary alternation
-order,美式,EN→ZH,1,Syntactic boundary alternation
-burger,好食,EN→ZH,1,Syntactic boundary alternation
-咗,bagel,ZH→EN,1,Syntactic boundary alternation
-bagel,我想食,EN→ZH,1,Syntactic boundary alternation
-bagel,硬到,EN→ZH,1,Syntactic boundary alternation
-腐乳,pasta,ZH→EN,1,Syntactic boundary alternation
-pasta,新穎,EN→ZH,1,Syntactic boundary alternation
-已經,re,ZH→EN,1,Syntactic boundary alternation
-ordered,過好,EN→ZH,1,Syntactic boundary alternation
-依然,keep,ZH→EN,1,Syntactic boundary alternation
-keep,到,EN→ZH,1,Syntactic boundary alternation
+Token 1,Token 2,Transition Direction,Frequency,Review ID,Syntactic Description
+keep,住,EN→ZH,2,HK-C021,English verb + Cantonese continuous aspect marker (住)
+的,cafe,ZH→EN,2,HK-C026,Chinese genitive particle (的) + English noun
+bagel,都,EN→ZH,2,HK-C030,Topicalised English subject + Cantonese inclusive adverb (都)
+第一,cafe,ZH→EN,1,HK-C001,Ordinal adjective + English loan noun
+muffin,好好味,EN→ZH,1,HK-C002,English subject + Cantonese stative predicate
+menu,寫,EN→ZH,1,HK-C003,English subject + Cantonese verb (寫)
+杯,creamy,ZH→EN,1,HK-C004,Cantonese classifier (杯) + English adjective
+black,淡到水咁,EN→ZH,1,HK-C004,Syntactic boundary alternation
+淡到水咁,cafe,ZH→EN,1,HK-C004,Cantonese simile predicate + English subject
+cafe,唔識沖,EN→ZH,1,HK-C004,Syntactic boundary alternation
+既,flat,ZH→EN,1,HK-C006,Syntactic boundary alternation
+white,就,EN→ZH,1,HK-C006,Syntactic boundary alternation
+好,very,ZH→EN,1,HK-C016,Syntactic boundary alternation
+同,menu,ZH→EN,1,HK-C017,Cantonese relator (同) + English noun
+picture,嚴重,EN→ZH,1,HK-C017,English noun + Chinese predicate adjective
+退曬步,overextract,ZH→EN,1,HK-C018,Syntactic boundary alternation
+overextract,曬,EN→ZH,1,HK-C018,English technical verb + Cantonese exhaustive particle (曬)
+啲,cream,ZH→EN,1,HK-C019,Syntactic boundary alternation
+cheese,真,EN→ZH,1,HK-C019,Syntactic boundary alternation
+左,extra,ZH→EN,1,HK-C020,Syntactic boundary alternation
+shot,好難飲,EN→ZH,1,HK-C020,Syntactic boundary alternation
+會,keep,ZH→EN,1,HK-C021,Syntactic boundary alternation
+有,single,ZH→EN,1,HK-C024,Syntactic boundary alternation
+origin,選擇,EN→ZH,1,HK-C024,Syntactic boundary alternation
+bagel,好煙韌,EN→ZH,1,HK-C029,Syntactic boundary alternation
+同,bagel,ZH→EN,1,HK-C030,Syntactic boundary alternation
+pasta,一滴,EN→ZH,1,HK-C031,Syntactic boundary alternation
+嘅,cafe,ZH→EN,1,HK-C032,Syntactic boundary alternation
+cafe,求嚇,EN→ZH,1,HK-C032,Syntactic boundary alternation
+做,gym,ZH→EN,1,HK-C032,Syntactic boundary alternation
+gym,最好,EN→ZH,1,HK-C032,Syntactic boundary alternation
+麵包,bagel,ZH→EN,1,HK-C033,Syntactic boundary alternation
+sourdough,都,EN→ZH,1,HK-C034,Syntactic boundary alternation
+smoothie,好味,EN→ZH,1,HK-C035,Syntactic boundary alternation
+高,bagel,ZH→EN,1,HK-C039,Syntactic boundary alternation
+bagel,同,EN→ZH,1,HK-C039,Syntactic boundary alternation
+卷蛋,must,ZH→EN,1,HK-C040,Syntactic boundary alternation
+夠,worth,ZH→EN,1,HK-C042,Syntactic boundary alternation
+非常,tiny,ZH→EN,1,HK-C049,Syntactic boundary alternation
+tiny,的,EN→ZH,1,HK-C049,Syntactic boundary alternation
+bagel,似,EN→ZH,1,HK-C053,Syntactic boundary alternation
+差劣,begal,ZH→EN,1,HK-C058,Syntactic boundary alternation
+begal,是,EN→ZH,1,HK-C058,Syntactic boundary alternation
+兩次,order,ZH→EN,1,HK-C066,Syntactic boundary alternation
+order,加,EN→ZH,1,HK-C066,Syntactic boundary alternation
+好,sweet,ZH→EN,1,HK-C070,Syntactic boundary alternation
+toast,同,EN→ZH,1,HK-C079,Syntactic boundary alternation
+同,salad,ZH→EN,1,HK-C079,Syntactic boundary alternation
+salad,都,EN→ZH,1,HK-C079,Syntactic boundary alternation
+好,fresh,ZH→EN,1,HK-C079,Syntactic boundary alternation
+latte,呢,EN→ZH,1,HK-C080,English beverage noun + Cantonese demonstrative-classifier (呢間)
+做,brunch,ZH→EN,1,HK-C084,Syntactic boundary alternation
+brunch,食完,EN→ZH,1,HK-C084,Syntactic boundary alternation
+dirty,咖啡,EN→ZH,1,HK-C085,Syntactic boundary alternation
+可以,keep,ZH→EN,1,HK-C086,Syntactic boundary alternation
+的,tiramisu,ZH→EN,1,HK-C091,Syntactic boundary alternation
+tiramisu,十分,EN→ZH,1,HK-C091,Syntactic boundary alternation
+十分,creamy,ZH→EN,1,HK-C091,Syntactic boundary alternation
+creamy,蛋糕,EN→ZH,1,HK-C091,Syntactic boundary alternation
+聽,comment,ZH→EN,1,HK-C092,Syntactic boundary alternation
+toast,無,EN→ZH,1,HK-C093,Syntactic boundary alternation
+跟,cream,ZH→EN,1,HK-C093,Syntactic boundary alternation
+cream,和,EN→ZH,1,HK-C093,Syntactic boundary alternation
+原味,scone,ZH→EN,1,HK-C094,Syntactic boundary alternation
+scone,卻給,EN→ZH,1,HK-C094,Syntactic boundary alternation
+茶味,scone,ZH→EN,1,HK-C094,Syntactic boundary alternation
+scone,我,EN→ZH,1,HK-C094,Syntactic boundary alternation
+食,scone,ZH→EN,1,HK-C094,Syntactic boundary alternation
+scone,原來,EN→ZH,1,HK-C094,Syntactic boundary alternation
+但,salad,ZH→EN,1,HK-C102,Syntactic boundary alternation
+salad,細份,EN→ZH,1,HK-C102,Syntactic boundary alternation
+breakfast,好,EN→ZH,1,HK-C113,Syntactic boundary alternation
+muffin,太甜,EN→ZH,1,HK-C114,Syntactic boundary alternation
+bag,不錯,EN→ZH,1,HK-C114,Syntactic boundary alternation
+我,order,ZH→EN,1,HK-C117,Syntactic boundary alternation
+order,美式,EN→ZH,1,HK-C117,Syntactic boundary alternation
+burger,好食,EN→ZH,1,HK-C118,Syntactic boundary alternation
+咗,bagel,ZH→EN,1,HK-C119,Syntactic boundary alternation
+bagel,我想食,EN→ZH,1,HK-C119,Syntactic boundary alternation
+bagel,硬到,EN→ZH,1,HK-C122,Syntactic boundary alternation
+腐乳,pasta,ZH→EN,1,HK-C128,Syntactic boundary alternation
+pasta,新穎,EN→ZH,1,HK-C128,Syntactic boundary alternation
+已經,re,ZH→EN,1,HK-C005,Syntactic boundary alternation
+ordered,過好,EN→ZH,1,HK-C005,Syntactic boundary alternation
+依然,keep,ZH→EN,1,HK-C005,Syntactic boundary alternation
+keep,到,EN→ZH,1,HK-C005,Syntactic boundary alternation

@@ -7,13 +7,13 @@ HK-C017,Code-switched,Intra-sentential,Code-switched,Intra-sentential,Yes,menu p
 HK-C018,Code-switched,Intra-sentential,Code-switched,Intra-sentential,Yes,overextract为咖啡英文术语，嵌入粤语句中。
 HK-C019,Code-switched,Intra-sentential,Code-switched,Intra-sentential,Yes,cream cheese为普通食品词，d为粤语字。
 HK-C020,Code-switched,Intra-sentential,Code-switched,Intra-sentential,Yes,extra shot为咖啡特调术语（普通词组合），嵌入粤语句中。
-HK-C007,Chinese,N/A,Chinese,N/A,Yes,纯中文/粤语评论，三文治为音译汉字借词，按规则归Chinese。
-HK-C009,Chinese,N/A,Chinese,N/A,Yes,Starbucks为品牌名排除；其余为纯粤语，emoji忽略。
-HK-C010,Chinese,N/A,Chinese,N/A,Yes,纯中文评论。
-HK-C012,Chinese,N/A,Chinese,N/A,Yes,纯中文/粤语评论。
-HK-C015,Chinese,N/A,Chinese,N/A,Yes,纯中文/粤语评论，emoji忽略。
-HK-C008,English,N/A,English,N/A,Yes,纯英文评论。
-HK-C011,English,N/A,English,N/A,Yes,纯英文评论。
-HK-C013,English,N/A,English,N/A,Yes,纯英文评论。
-HK-C014,English,N/A,English,N/A,Yes,纯英文评论。
-HK-C029,Other/uncertain,N/A,Code-switched,Intra-sentential,Discrepancy,Bagel为普通英文食品词（通用概念非完整菜单名），嵌入粤语句中。A初判为Other/uncertain，B复核后修正为Code-switched。
+HK-C007,Chinese,,Chinese,,Yes,纯中文/粤语评论，三文治为音译汉字借词，按规则归Chinese。
+HK-C009,Chinese,,Chinese,,Yes,Starbucks为品牌名排除；其余为纯粤语，emoji忽略。
+HK-C010,Chinese,,Chinese,,Yes,纯中文评论。
+HK-C012,Chinese,,Chinese,,Yes,纯中文/粤语评论。
+HK-C015,Chinese,,Chinese,,Yes,纯中文/粤语评论，emoji忽略。
+HK-C008,English,,English,,Yes,纯英文评论。
+HK-C011,English,,English,,Yes,纯英文评论。
+HK-C013,English,,English,,Yes,纯英文评论。
+HK-C014,English,,English,,Yes,纯英文评论。
+HK-C029,Other/uncertain,,Code-switched,Intra-sentential,Discrepancy,Bagel为普通英文食品词（通用概念非完整菜单名），嵌入粤语句中。A初判为Other/uncertain，B复核后修正为Code-switched。
